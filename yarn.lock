@@ -1297,10 +1297,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/confusing-browser-globals@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/confusing-browser-globals/-/confusing-browser-globals-1.0.0.tgz#d81348816d6005c96b217d006b42b4a3eb12d3b5"
-  integrity sha512-2RQF2SJW3pAQgkHtlIefyxiRkdlBwXxqNiiDDoPyaR9R0SqIujHoP6ceLSAE95EKd7CCLV3F/n4ohOAMi5edpQ==
+"@types/confusing-browser-globals@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/confusing-browser-globals/-/confusing-browser-globals-1.0.3.tgz#61966f4e08d2b8994b80aed6fe86c83e84ae65ab"
+  integrity sha512-q+6axdE3RyjrSsy2ONE4UpF89rwOfpoMBP3lqJ+OzLuOeYHwP+o2GITzuleKb1UT3FSYybO8QmeACgyHleu2CA==
 
 "@types/eslint-config-prettier@6.11.0":
   version "6.11.0"
