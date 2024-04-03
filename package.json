@@ -115,7 +115,7 @@
     "eslint-plugin-testing-library": "5.9.1",
     "eslint-plugin-unicorn": "45.0.2",
     "lodash.merge": "4.6.2",
-    "read-pkg-up": "7.0.1",
+    "read-package-up": "11.0.0",
     "typescript": "4.9.4"
   },
   "devDependencies": {
