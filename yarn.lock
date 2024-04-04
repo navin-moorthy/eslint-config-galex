@@ -1302,10 +1302,10 @@
   resolved "https://registry.yarnpkg.com/@types/confusing-browser-globals/-/confusing-browser-globals-1.0.0.tgz#d81348816d6005c96b217d006b42b4a3eb12d3b5"
   integrity sha512-2RQF2SJW3pAQgkHtlIefyxiRkdlBwXxqNiiDDoPyaR9R0SqIujHoP6ceLSAE95EKd7CCLV3F/n4ohOAMi5edpQ==
 
-"@types/eslint-config-prettier@6.11.0":
-  version "6.11.0"
-  resolved "https://registry.yarnpkg.com/@types/eslint-config-prettier/-/eslint-config-prettier-6.11.0.tgz#5e944e94240df9c1ba755c3b1ebc3879d96ab991"
-  integrity sha512-UBuZMZVog9c9jXvArbYtWH570sRWNaU6kEnUAHsHb/+zAufzPT4I+gMkUR2dVPWlqiceoRU1thjUVdGrAWVpCA==
+"@types/eslint-config-prettier@6.11.3":
+  version "6.11.3"
+  resolved "https://registry.yarnpkg.com/@types/eslint-config-prettier/-/eslint-config-prettier-6.11.3.tgz#319f53eeb5a8b50e702fa081a9fe39bf01df8c1d"
+  integrity sha512-3wXCiM8croUnhg9LdtZUJQwNcQYGWxxdOWDjPe1ykCqJFPVpzAKfs/2dgSoCtAvdPeaponcWPI7mPcGGp9dkKQ==
 
 "@types/eslint@8.4.10":
   version "8.4.10"
